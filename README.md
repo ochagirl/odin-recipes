@@ -1,1 +1,2 @@
-# odin-recipes
+The purpose of this recipe site project is to display increasing knowledge and skills needed for building webpages and websites.
+Phase one is creating the basic structure through HTML syntax. At the end of phase one, the result should be a basic but functional recipe website.
