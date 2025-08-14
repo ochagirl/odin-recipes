@@ -1,0 +1,56 @@
+body {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(./images/fan_seamless.svg);
+    background-repeat: repeat;
+}
+
+h1,
+h2 {
+    text-align: center;
+    background-color:rgb(245, 170, 176);
+}
+
+.miso,
+.tamagoyaki,
+.salmon,
+.teacup {
+    display: block;
+    margin: 0 auto;
+}
+
+div {
+    width: 75%;
+    margin: 0 auto;    
+}
+
+div.main {
+    background-color: #fdf0f0;
+    border: 5px solid #c9b0a4;
+    width: 75%;
+    padding: 20px;
+}
+
+.main_recipes {
+    list-style-type: none;
+    text-align: center;
+    padding: 0px; 
+    margin: 25px;
+}
+
+.main_recipes li {
+    margin: 0;
+    text-align: center;
+    display: inline-block;     
+}
+
+a.clicky {
+    display: inline-block;
+    text-decoration: none;
+    background-color: #d3ddc7;
+    border: 5px solid #849470 ; 
+    border-radius: 12px;
+    padding: 25px;
+    margin: 10px;
+}
+

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    id="svg2"
+    sodipodi:docname="_svgclean2.svg"
+    viewBox="0 0 1500.5 1516.6"
+    version="1.1"
+    inkscape:version="0.48.3.1 r9886"
+  >
+  <defs
+      id="defs6"
+    >
+    <filter
+        id="filter3962"
+        inkscape:collect="always"
+        color-interpolation-filters="sRGB"
+      >
+      <feGaussianBlur
+          id="feGaussianBlur3964"
+          stdDeviation="3.8951311"
+          inkscape:collect="always"
+      />
+    </filter
+    >
+    <filter
+        id="filter3962-1"
+        color-interpolation-filters="sRGB"
+        inkscape:collect="always"
+      >
+      <feGaussianBlur
+          id="feGaussianBlur3964-7"
+          stdDeviation="3.8951311"
+          inkscape:collect="always"
+      />
+    </filter
+    >
+  </defs
+  >
+  <sodipodi:namedview
+      id="namedview4"
+      inkscape:showpageshadow="false"
+      inkscape:zoom="0.065646125"
+      borderopacity="1"
+      inkscape:current-layer="svg2"
+      inkscape:cx="681.14266"
+      inkscape:cy="1153.0098"
+      borderlayer="false"
+      inkscape:window-maximized="0"
+      showgrid="false"
+      bordercolor="#666666"
+      inkscape:window-x="176"
+      guidetolerance="10"
+      objecttolerance="10"
+      inkscape:window-y="2"
+      inkscape:window-width="1024"
+      inkscape:pageopacity="0"
+      inkscape:pageshadow="2"
+      pagecolor="#ffffff"
+      gridtolerance="10"
+      inkscape:window-height="768"
+      showborder="false"
+  />
+  <g
+      id="g4569"
+      transform="translate(-2.2991 1.5663)"
+    >
+    <g
+        id="g4549"
+      >
+      <g
+          id="g4530"
+        >
+        <g
+            id="g4512"
+          >
+          <g
+              id="g4495"
+            >
+            <rect
+                id="rect3915"
+                style="stroke-width:0;fill:#9f8929"
+                ry="162.19"
+                height="1516.6"
+                width="1500.5"
+                y="-1.5663"
+                x="2.2991"
+            />
+            <g
+                id="g4114"
+                style="fill:#3c3c3c"
+                transform="matrix(.80461 0 0 .23312 -1161.5 947.94)"
+              >
+              <g
+                  id="g4024-4"
+                  style="fill:#3c3c3c"
+                  transform="translate(1608.9 195.76)"
+                >
+                <path
+                    id="path2987-8"
+                    d="m1179.2 475.9c35.348 32.87 64.842 90.675 29.731 132.86-82.601 81.473-206.97 100.08-320.25 112.31-144.98 15.02-298.36 19.24-433.92-39.58-55.8-19.82-122.88-49.43-133.79-111.28-7.0199-62.257 52.227-109.1 107.93-129.81 82.289-31.562 172.19-38.361 259.5-48.775 167.29-13.1 342.01 6.9978 490.78 84.274z"
+                    style="stroke-width:0;fill:#3c3c3c"
+                    inkscape:connector-curvature="0"
+                />
+                <path
+                    id="path2989-8"
+                    d="m431.66 723.63c-63.73-23.04-79.13-90.93-106.86-145.37-14.37-70.73 47.58-123.45 112.1-147.92 142.67-60.3 288.28-57.87 441.16-53.18 117.49 8.6748 241.75 33.432 332.45 109.03 19.239 17.102 23.744 38.652 27.892 62.679 4.7201 27.339 6.5598 57.431-13.887 79.758-51.913 67.088-145.19 79.019-223.69 101.85-161.91 40.091-331.3 26.398-494.99 4.8612-24.948-2.3614-49.994-5.2083-74.17-11.711z"
+                    sodipodi:nodetypes="cccccscccc"
+                    style="stroke-width:0;fill:#3c3c3c"
+                    inkscape:connector-curvature="0"
+                />
+                <path
+                    id="path2991-2"
+                    d="m328.6 581.42c42.542 94.526 127.88 114.61 227.96 128.44 207.99 35.601 391.68 36.076 584.75-48.936 8.7648-6.3389 56.803-42.116 67.243-56.327 3.1053-4.2271 11.257-11.766 16.282-21.74 8.7828-17.432 8.3228-50.783 9.4623-52.546 0 0 10.607 13.867 11.037 38.307 0.1372 7.8085 4.6756 35.984 4.1686 62.37-0.5087 26.48 0.8293 43.771 0.4801 47.983-3.3593 40.517-25.077 133.19-25.077 133.19-13.244 36.297-51.026 101.71-51.026 101.71l-59.414 83.595-83.216 62.177s-91.861 39.148-153.93 43.798c-23.267 1.7431-64.171 3.975-93.058 2.3572-34.65-1.9406-71.236-13.591-85.446-13.739-42.149-7.5029-101.85-15.739-143.84-39.835-77.945-43.777-160.33-91.288-202.8-170.32-28.767-56.799-39.067-87.498-46.676-151.91-1.8534-11.652 1.0686-58.148 0.41336-71.555-1.2784-26.159 2.8225-52.437 2.8225-52.437l9.0896-45.691 7.7676-27.769z"
+                    sodipodi:nodetypes="cccsscsssccccssccccscccc"
+                    style="stroke-width:0;fill:#3c3c3c"
+                    inkscape:connector-curvature="0"
+                />
+                <path
+                    id="path2995-4"
+                    d="m415.38 462.11c100.76-56.132 220.13-69.993 335.13-70.006 149.42-7.8426 303.53 18.819 434.38 88.904 45.326 32.421 48.466 92.854-1.2016 127.17-37.698 33.007-88.863 76.258-136.9 45.443-107.8-31.158-222.38-29.215-333.64-22.038-52.351 6.7864-105.51 18.442-150.32 45.698-52.63 26.31-106.52-8.38-152.25-31.3-38.37-21.43-78.67-61.52-62.11-106.96 10.55-32.648 37.894-57.942 66.905-76.914z"
+                    sodipodi:nodetypes="cccccccccc"
+                    style="stroke-width:0;fill:#3c3c3c"
+                    inkscape:connector-curvature="0"
+                />
+                <path
+                    id="path3826-5"
+                    style="filter:url(#filter3962-1);stroke-width:0;fill:#3c3c3c"
+                    d="m511.6 757.75c62.511-50.77 146.42-56.793 222.84-67.976 114.34-7.9646 259.07 6.821 367.84 42.468-7.4173 12.784-52.022 28.634-66.655 32.72-24.246 6.7698-86.507 23.966-86.507 23.966s-33.487 7.0362-100.41 10.167c-42.919 2.0078-85.197 6.5891-135.48 1.455-36.323-3.7088-82.579-16.805-108.87-19.055-31.503-5.3816-62.254-14.345-92.763-23.745z"
+                    sodipodi:nodetypes="cccscsscc"
+                    transform="matrix(1.0374 0 0 .95126 -33.857 -42.77)"
+                    inkscape:connector-curvature="0"
+                />
+              </g
+              >
+            </g
+            >
+            <path
+                id="path2987"
+                d="m1141.4 581.93c35.348 32.87 64.842 90.675 29.731 132.86-82.6 81.47-206.99 100.08-320.27 112.31-144.96 15.02-298.34 19.24-433.9-39.57-55.8-19.82-122.88-49.44-133.79-111.29-7.0199-62.257 52.227-109.1 107.93-129.81 82.289-31.562 172.19-38.361 259.5-48.775 167.29-13.1 342.01 6.9978 490.78 84.274z"
+                style="stroke-width:0;fill:#2f2f15"
+                inkscape:connector-curvature="0"
+            />
+            <path
+                id="path2989"
+                d="m393.83 829.66c-63.737-23.037-79.128-90.928-106.87-145.37-14.364-70.725 47.58-123.44 112.1-147.92 142.68-60.302 288.28-57.875 441.17-53.18 117.49 8.6748 241.75 33.432 332.45 109.03 19.239 17.102 23.744 38.652 27.892 62.679 4.7201 27.339 6.5598 57.431-13.887 79.758-51.913 67.088-145.19 79.019-223.69 101.85-161.91 40.091-331.3 26.398-494.99 4.8612-24.948-2.3614-49.994-5.2083-74.17-11.711z"
+                sodipodi:nodetypes="cccccscccc"
+                style="stroke-width:0;fill:#2f2f15"
+                inkscape:connector-curvature="0"
+            />
+            <path
+                id="path2991"
+                d="m290.77 687.45c42.542 94.526 127.88 114.61 227.96 128.44 207.99 35.601 391.68 36.076 584.75-48.936 8.7648-6.3389 56.803-42.116 67.243-56.327 3.1053-4.2271 11.257-11.766 16.282-21.74 8.7828-17.432 8.3228-50.783 9.4623-52.546 0 0 10.607 13.867 11.037 38.307 0.1372 7.8085 4.6756 35.984 4.1686 62.37-0.5087 26.48 0.8293 43.771 0.4801 47.983-3.3593 40.517-25.077 133.19-25.077 133.19-13.244 36.297-51.026 101.71-51.026 101.71l-59.414 83.595-83.216 62.177s-91.861 39.148-153.93 43.798c-23.267 1.7431-64.171 3.975-93.058 2.3572-34.65-1.9406-71.236-13.591-85.446-13.739-42.149-7.5029-101.85-15.739-143.84-39.835-77.945-43.777-160.33-91.288-202.8-170.32-28.767-56.799-39.067-87.498-46.676-151.91-1.8534-11.652 1.0686-58.148 0.41336-71.555-1.2784-26.159 2.8225-52.437 2.8225-52.437l9.0896-45.691 7.7676-27.769z"
+                sodipodi:nodetypes="cccsscsssccccssccccscccc"
+                style="stroke-width:0;fill:#393922"
+                inkscape:connector-curvature="0"
+            />
+            <path
+                id="path2995"
+                d="m377.54 568.14c100.76-56.132 220.13-69.993 335.13-70.006 149.42-7.8426 303.53 18.819 434.38 88.904 45.326 32.421 48.466 92.854-1.2016 127.17-37.698 33.007-88.863 76.258-136.9 45.443-107.8-31.158-222.38-29.215-333.64-22.038-52.351 6.7864-105.51 18.442-150.32 45.698-52.627 26.318-106.52-8.3716-152.24-31.298-38.374-21.432-78.671-61.522-62.114-106.96 10.55-32.648 37.894-57.942 66.905-76.914z"
+                sodipodi:nodetypes="cccccccccc"
+                style="stroke-width:0;fill:#57570c"
+                inkscape:connector-curvature="0"
+            />
+            <path
+                id="path3826"
+                style="filter:url(#filter3962);stroke-width:0;fill:#5dca0f"
+                d="m511.6 757.75c62.511-50.77 146.42-56.793 222.84-67.976 114.34-7.9646 259.07 6.821 367.84 42.468-7.4173 12.784-52.022 28.634-66.655 32.72-24.246 6.7698-86.507 23.966-86.507 23.966s-33.487 7.0362-100.41 10.167c-42.919 2.0078-85.197 6.5891-135.48 1.455-36.323-3.7088-82.579-16.805-108.87-19.055-31.503-5.3816-62.254-14.345-92.763-23.745z"
+                sodipodi:nodetypes="cccscsscc"
+                transform="matrix(1.0374 0 0 .95126 -71.687 63.261)"
+                inkscape:connector-curvature="0"
+            />
+            <path
+                id="path4451"
+                d="m285.59 647.75c-24.832 100.87-0.14474 207.45 44.982 298.9 31.636 38.912 90.175 26.866 127.78 3.9645 40.351-21.77 97.533-11.239 122.66 28.613 27.752 33.558 72.893 65.883 117.89 46.547 42.024-16.42 55.117-77.258 105.16-77.871 56.487-0.8668 73.294 79.048 131.07 73.877 36.207 3.3113 56.256-33.002 63.24-63.489 7.2505-31.629 21.342-74.054 62.238-69.57 30.052-1.8949 60.476 18.628 89.37 5.4797 34.177-22.219 19.666-66.024 23.271-99.501 5.3995-36.026 39.288-61.462 37.139-100.33 1.0608-13.678-5.8707-55.502-12.577-55.072-2.0667 0.1325 2.354 8.3644 0.3213 19.182-1.7202 9.155-9.1565 20.651-9.744 25.612-18.712 42.499-58.461 70.004-99.913 87.6-165.36 80.65-356.35 76.65-534.25 50.89-56.64-9.62-115.68-14.71-168.62-38.23-52.15-26.06-97.59-75.86-100.04-136.6z"
+                sodipodi:nodetypes="ccccccccccccssccccc"
+                style="stroke-width:0;fill:#5b5555"
+                inkscape:connector-curvature="0"
+            />
+            <path
+                id="path4493"
+                d="m3.3323 208.83h1498.4l-0.5592 175.56-1497.8-3.89z"
+                sodipodi:nodetypes="ccccc"
+                style="stroke:#000000;stroke-width:1px;fill:#654545"
+                inkscape:connector-curvature="0"
+            />
+          </g
+          >
+        </g
+        >
+      </g
+      >
+    </g
+    >
+  </g
+  >
+  <metadata
+      id="metadata29"
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
